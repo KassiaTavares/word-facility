@@ -1,0 +1,2 @@
+# word-facility
+dictionary 
